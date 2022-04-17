@@ -1,4 +1,4 @@
-# dogogh
+# DoGOGH
 Difference of Gaussian Oriented Gradient Histogram
 
 1. Download the CUHK Face Sketch Database (CUFS) dataset from here: http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html
